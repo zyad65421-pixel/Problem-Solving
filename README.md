@@ -1,23 +1,39 @@
-## Codeforces Submissions
+<div align="center">
 
-*Auto-generated with ❤️ using [Codeforces Submission Fetcher](https://github.com/Andrew-Velox/Codeforces-Submission-Fetcher-Extension)*
+# ⚡ ZIAD MOHAMED (Ziad_0x) ⚡
+### 🚀 Computer Science Student | Algorithm Enthusiast | Problem Solver
 
-## Introduction
+  <p align="center">
+    <a href="https://codeforces.com/profile/ziadmohamed9.2">
+      <img src="https://img.shields.io/badge/Codeforces-ziadmohamed9.2-FFD700?style=for-the-badge&logo=codeforces&logoColor=white" />
+    </a>
+    <img src="https://img.shields.io/badge/University-Akhbar%20El%20Yom-blue?style=for-the-badge" />
+  </p>
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
+  <p align="center">
+    <img src="https://img.shields.io/badge/Verified-Accepted%20Solutions-brightgreen?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/Main_Langs-C++%20%26%20Python-blueviolet?style=flat-square&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/Status-Active%20Grinding-orange?style=flat-square&logo=target" />
+  </p>
+</div>
 
-• **Codeforces**
+---
 
-> Codeforces is a website which hosts competitive programming contests: [http://codeforces.com](http://codeforces.com)
+## 🧠 The Journey & Philosophy
+> *"Solving problems isn't just about the result; it's about the logic we build along the way."*
 
+This repository is a dedicated archive of my competitive programming journey. It showcases my ability to analyze complex problems and translate them into efficient code.
 
+### 🛠️ My Technical Toolkit
+- **⚙️ Expertise:** Implementation, Brute Force, Math, and Greedy Algorithms.
+- **🚀 High Performance:** Leveraging **C++20** for speed and efficiency.
+- **🐍 Versatility:** Utilizing **Python 3** for rapid logic development.
 
-## Contents
+---
 
-
-
-| # | Title | Solution | Tags | Submitted |
-|:-:|-------|----------|------|-----------|
+## 📂 Deep Dive into Solutions
+| 🏆 Problem | 🏷️ Tags | 💻 Language | 📉 Difficulty | 📅 Date |
+| :--- | :--- | :---: | :---: | :---: |
 | 26 | [A - Elephant](https://codeforces.com/contest/617/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/617/submission/365773886) | `math` `*800` | Mar/07/2026 10:06 PM |
 | 25 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/791/submission/365773576) | `implementation` `*800` | Mar/07/2026 10:03 PM |
 | 24 | [A - Word Capitalization](https://codeforces.com/contest/281/problem/A) | [C++20 (GCC 13-64)](https://codeforces.com/contest/281/submission/365773142) | `implementation` `strings` `*800` | Mar/07/2026 09:58 PM |
